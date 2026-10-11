@@ -7,11 +7,8 @@
     "scripts": {
         "start": "node index.js"
     },
-    "keywords": [
-        "whiskeysockets",
-        "multi-device"
-    ],
-    "author": "VERSE 🜲",
+    "keywords": ["whiskeysockets", "multi-device"],
+    "author": "VERSE",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -26,7 +23,7 @@
         "colors": "latest",
         "didyoumean": "^1.2.2",
         "fs": "0.0.1-security",
-        "figlet":"^1.5.0",
+        "figlet": "^1.5.0",
         "human-readable": "^0.2.1",
         "jimp": "^0.22.12",
         "moment-timezone": "^0.5.34",
@@ -40,5 +37,5 @@
         "stream": "^0.0.3",
         "util": "^0.12.4",
         "yt-search": "^2.10.4"
-     }
+    }
 }
